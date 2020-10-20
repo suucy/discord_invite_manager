@@ -8,10 +8,15 @@ This bot will show how many invites users including yourself have. It's recordin
 Contains
 
  Bonus Command
+ 
  Me Command
+ 
  User Command
+ 
  Reward Command (in the making)
+ 
 Setup
+
 Open PowerShell or CMD
 
 
@@ -38,7 +43,11 @@ After the installation, go into the Settings folder and then open the Settings.j
 
 Commands
 
+
 -me
+
 -user_invite @roleId
+
 -bonus @roleId <ammount>
+ 
 
