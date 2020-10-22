@@ -7,6 +7,8 @@ This bot will show how many invites users including yourself have. It's recordin
 
 Contains
 
+ Top Inivters
+
  Bonus Command
  
  Me Command
@@ -14,6 +16,10 @@ Contains
  User Command
  
  Reward Command (in the making)
+ 
+ IMPORTANT 
+ 
+ THE node_modules ARE NOT INCLUDED
  
 Setup
 
@@ -43,6 +49,7 @@ After the installation, go into the Settings folder and then open the Settings.j
 
 Commands
 
+-top
 
 -me
 
