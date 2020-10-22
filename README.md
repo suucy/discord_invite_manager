@@ -23,7 +23,7 @@ Contains
  
 Setup
 
-Open PowerShell or CMD
+Open CMD
 
 
 
@@ -31,21 +31,21 @@ Copy directory location
 
 
 
-Write the command cd copied/location.
+Write the command cd copied/location example: cd Desktop
 
 
 
-Type npm to install the modules. Discord if you have trouble just type npm i discord.js
+Type npm to install the modules. If you have trouble just type npm install discord.js
 
 
 
-To run the boat node . or node index.js write.
+To run the bot type the command node . or node index.js
 
 
 
-After the installation, go into the Settings folder and then open the Settings.json file.
+After the installation, go into the Settings folder and then open the Settings.json file and change the following.
 
-{ "Token": "", "Prefix": "-", "Private_Server": true }
+{ "Token": " ", "Prefix": "-", "Private_Server": true }
 
 Commands
 
